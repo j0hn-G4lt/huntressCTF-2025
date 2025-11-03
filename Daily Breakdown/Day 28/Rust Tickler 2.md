@@ -1,3 +1,9 @@
+## Challenge Prompt
+
+You all looked like you were having so much fun reverse engineering Rust code... why not do it again!?
+
+---
+
 - Still fluffing out details
 
 ```sh
