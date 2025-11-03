@@ -16,4 +16,4 @@ cat flag.txt
 flag{6529440ceec226f31a3b2dc0d0b06965}
 ```
 
-- There is also [CVE-2025-8088](https://github.com/techcorp/CVE-2025-8088-Exploit?tab=readme-ov-file) which I didn't use since it required linux I believe, but a team member successfully executed the zipslip vulnerability for a shell and found the flag that way too.
+- There is also [CVE-2025-8088](https://github.com/techcorp/CVE-2025-8088-Exploit?tab=readme-ov-file) which I didn't use since it required windows I believe, but a team member successfully executed the zipslip vulnerability for a shell and found the flag that way too.
