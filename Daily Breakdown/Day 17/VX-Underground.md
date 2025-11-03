@@ -25,7 +25,7 @@ User Comment                    : Prime Modulus: 0100000000000000000000000000000
 ```
 
 - [Shamir's Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing)
-- Metadata in each image reconstructs a zip file IMG[1-457]
+- Metadata in each image [1-457]
 - So we extract and order them
 
 ```sh
