@@ -1,7 +1,6 @@
-Challenge Prompt
+## Challenge Prompt
 
 But what is the real root of the issue?
-
 If you are using the VPN, you can SSH in to this challenge with:
 
 ```

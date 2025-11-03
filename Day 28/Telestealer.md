@@ -12,6 +12,7 @@ for i in {1..50}; do
     -d "from_chat_id=-1003264841385" \
     -d "message_id=$i" | jq -c '.result.text // .result.caption'
 done
+
 null
 null
 "YAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYAY pulled those stealer logs"
