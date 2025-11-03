@@ -1,6 +1,6 @@
 ## Challenge Prompt
 
-You've heard of *RaaS*, you've heard of *SaaS*... the ***Threat Actor Support Line*** brings the two together!
+You've heard of *RaaS*, you've heard of *SaaS*... the **_Threat Actor Support Line_** brings the two together!
 
 Upload the files you want encrypted, and the service will start up its own hacker computer *(as the Administrator user with antivirus disabled, of course)* and encrypt them for you!
 

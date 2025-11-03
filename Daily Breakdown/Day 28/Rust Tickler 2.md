@@ -100,7 +100,7 @@ for entry_id, offset, seed, length in entries:
     if entry_id not in targets:
         log.warning("unknown entry_id=0x%08x (skipping)", entry_id)
         continue
-    
+
     payload = decoded[offset:offset + length]
     plain = lcg(seed & 0xFFFFFFFF, payload)
     log.info("id=0x%08x (%s)", entry_id, targets[entry_id])
