@@ -215,4 +215,4 @@ Very nice! That was Base 92. Many decoders do not ignore whitespace, so you may 
 - Recognizing this from previous CTF experience, it is not an intuitive encoding but the glyphs are recognizable base65536
 - Used https://www.better-converter.com/Encoders-Decoders/Base65536-Decode to decode
 
-![[Pasted image 20251101150407.png]]
+![Solution](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251101150407.png)

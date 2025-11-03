@@ -2,6 +2,6 @@
 
 - https://login.microsoftonline.com/4rhdc6.onmicrosoft.com/oauth2/v2.0/authorize?client_id=test&scope=openid
 
-![[Pasted image 20251101225637.png]]
+![Solution 1](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251101225637.png)
 
-![[Pasted image 20251101225742.png]]
+![Solution 2](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251101225742.png)

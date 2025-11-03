@@ -29,4 +29,4 @@ curl -s -X POST http://10.1.50.142/setEmoji -H "Content-Type: application/json" 
 
 - Reload the page
 
-![[Pasted image 20251101224748.png]]
+![Solution](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251101224748.png)

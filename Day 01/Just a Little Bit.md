@@ -9,4 +9,4 @@
 
 - Binary but missing _a bit_ (7 bit lengths)
 
-![[Pasted image 20251101223348.png]]
+![Solution](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251101223348.png)
