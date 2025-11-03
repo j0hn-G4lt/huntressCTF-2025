@@ -1,8 +1,8 @@
-> [!example] Challenge Prompt
->
-> I found this printer on the network, and it seems to be running... a weird web page... to search for drivers?
->
-> Escalate your privileges and uncover the flag in the **`root`** user's home directory.
+**Challenge Prompt**
+
+I found this printer on the network, and it seems to be running... a weird web page... to search for drivers?
+
+Escalate your privileges and uncover the flag in the **`root`** user's home directory.
 
 - From the source we identify a command injection vulnerability
 

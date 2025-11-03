@@ -1,9 +1,10 @@
 - We are given multiple non-ascii blocks of text and will be using cyberchef to easily decode
 
-> [!example] Challenge Prompt
-> Can you make sense of all the different data below? Each one has a different representation!
->
-> Uncover the appropriate plaintext and submit the flags below! Do you know what all these ones and zeros mean?
+**Challenge Prompt**
+
+Can you make sense of all the different data below? Each one has a different representation!
+
+Uncover the appropriate plaintext and submit the flags below! Do you know what all these ones and zeros mean?
 
 ```
 01000111 01110010 01100101 01100001 01110100 00100000 01110111 01101111 01110010 01101011 00100001
@@ -34,8 +35,9 @@ Great work! That was Base 2, better known as binary. It only uses two symbols: 0
 
 ---
 
-> [!example] Prompt
-> Hmmm, a group of triplets, it looks like. Can you find out what they are trying to say?
+**Prompt**
+
+Hmmm, a group of triplets, it looks like. Can you find out what they are trying to say?
 
 ```
 116 151 143 145 154 171 040 144 157 156 145 041 040 124 150 141 164 040 167 141 163 040 102 141 163
@@ -58,8 +60,9 @@ Nicely done! That was Base 8, or octal. It uses digits 0-7, and often shows up i
 
 ---
 
-> [!example] Prompt
-> These numbers look familiar... but how could they be represented as text?
+**Prompt**
+
+These numbers look familiar... but how could they be represented as text?
 
 ```
 089 111 117 032 099 114 097 099 107 101 100 032 105 116 033 032 084 104 097 116 032 119 097 115 032
@@ -81,8 +84,9 @@ You cracked it! That was Base 10, our everyday decimal system. It runs from 0-9 
 
 ---
 
-> [!example] Prompt
-> These look like pairs! But these have weird letters in them?
+**Prompt**
+
+These look like pairs! But these have weird letters in them?
 
 ```
 41 77 65 73 6f 6d 65 20 6a 6f 62 21 20 54 68 61 74 20 77 61 73 20 42 61 73 65 20 31 36 2c 20 6f 72
@@ -102,8 +106,9 @@ Awesome job! That was Base 16, or hexadecimal. It uses 0-9 and A-F, often with p
 
 ---
 
-> [!example] Prompt
-> Uppercase letters and digits in a long stream.... notice anything about the padding?
+**Prompt**
+
+Uppercase letters and digits in a long stream.... notice anything about the padding?
 
 ```
 I5XW6ZBAO5XXE2ZBEBKGQYLUEB3WC4ZAIJQXGZJAGMZCYIDPMZ2GK3RAOVZWKZBA
@@ -123,8 +128,9 @@ Good work! That was Base 32, often used in Google Authenticator keys. It uses A-
 
 ---
 
-> [!example] Prompt
-> A mixed alphabet with symbols. What is this one supposed to be?
+**Prompt**
+
+A mixed alphabet with symbols. What is this one supposed to be?
 
 ```
 K19X CSUEWQE24EBWE3/DK848UAIECV44HECN34HECDZC0R61Q57%E  CH44M-DSCAB44V3E6$CE4404
@@ -143,8 +149,9 @@ Great spotting! That was Base 45, used in QR codes for EU Digital COVID Certific
 
 ---
 
-> [!example] Prompt
-> Compact and common on the wire... does the ending give you a clue?
+**Prompt**
+
+Compact and common on the wire... does the ending give you a clue?
 
 ```
 V2VsbCBkb25lISBUaGF0IHdhcyBCYXNlIDY0LCBzdXBlciBjb21tb24gZm9yIGVuY29kaW5nIGRh
@@ -162,8 +169,9 @@ Well done! That was Base 64, super common for encoding data in email and web tra
 
 ---
 
-> [!example] Prompt
-> This variant often shows special markers. See anything bracketing the data?
+**Prompt**
+
+This variant often shows special markers. See anything bracketing the data?
 
 ```
 <~:2+3L+EqaECEXg"BOQ!*G@>P86=FqH+?250+EqL5@qZupDf'',+DG^9A8,XfATD@"F<Ga8EbSs"FE9
@@ -183,8 +191,9 @@ Nice work! That was Base 85, which comes in different variants. The Adobe/Ascii8
 
 ---
 
-> [!example] Prompt
-> This noisy alphabet is picky about whitespace... formatting might matter!
+**Prompt**
+
+This noisy alphabet is picky about whitespace... formatting might matter!
 
 ```
 @D_<sB5GVmj-;A[GD:PIptd9#KgRoG![3\gx4mcIUAiYA8M=E_=UOU5S$HqE$p<KHnvkV66}Q?tqB]P)
@@ -204,8 +213,9 @@ Very nice! That was Base 92. Many decoders do not ignore whitespace, so you may 
 
 ---
 
-> [!example] Prompt
-> The data below looks super weird! Don't panic if your editor can't render every symbol. Can you tell what it is?
+**Prompt**
+
+The data below looks super weird! Don't panic if your editor can't render every symbol. Can you tell what it is?
 
 ```
 𖡅驣ꍬ𐙥啴𒁪噢褠陨啴陷啳陂驳欠樵欳唬鵷顩啨陣啮陭啰𒁴𐘠陥ꍲ啹𔑥𓁥啹𐙕顩饯啥鵣𓁡顡驴捲縠啦𒁹啵驳啥鹷饬ꔠ𖡩𓅥𒀠啦饯啤ꍧ𒅹𓅨

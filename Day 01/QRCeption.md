@@ -1,7 +1,8 @@
-> [!example] Challenge Prompt
-> Wow, that's a big QR code! I wonder what it says!
->
-> ![Challenge](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251101134137.png)
+**Challenge Prompt**
+
+Wow, that's a big QR code! I wonder what it says!
+
+![Challenge](https://raw.githubusercontent.com/j0hn-G4lt/huntressCTF-2025/main/Images/Pasted%20image%2020251101134137.png)
 
 - Reused script from last year [MatryoshkaQR](https://github.com/j0hn-G4lt/huntressCTF-2024/blob/main/HuntressCTF2024/Day01/matryoshkaqr.md) which recursively decodes nested QR codes
 
