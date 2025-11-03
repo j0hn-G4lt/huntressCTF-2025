@@ -6,9 +6,9 @@ These scribbles are impossible to read!
 42 6c 6f 77 66 69 73 68
 ```
 
-Some crazy fisherman came by, dropped this note, and was muttering something in his drunken stupor, about his fishing pole and taking out... murlocs in ***Entra?*** and CyberChef!?
+Some crazy fisherman came by, dropped this note, and was muttering something in his drunken stupor, about his fishing pole and taking out... murlocs in **_Entra?_** and CyberChef!?
 
-![[scribbles.dat]]
+[scribbles.dat](scribbles.dat)
 
 I don't get it. You're the expert here! Not me!
 
